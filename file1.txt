@@ -2,3 +2,4 @@
 Second line
 London is the capital of GB
 Moscow is the capital of RF
+Tokio is the capital of Japan
